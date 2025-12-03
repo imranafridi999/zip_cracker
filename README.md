@@ -49,7 +49,7 @@
 
 <pre>
 <button class="copy" data-target="c9"></button>
-<code id="c9">git clone https://github.com/imranafridi999/zep_cracker.git</code>
+<code id="c9">git clone https://github.com/imranafridi999/zip_cracker.git</code>
 </pre>
 
 <pre>
